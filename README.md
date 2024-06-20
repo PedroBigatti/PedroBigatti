@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PedroBigatti
-- 👀 I’m interested in cybersecurity.
-- 🌱 I’m currently learning C, JS and Python.
+- 👀 I’m interested in web development.
+- 🌱 I’m currently learning HRtL.
 - 💞️ I’m looking to collaborate on web programming. 
 
 <!---
