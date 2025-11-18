@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @PedroBigatti
-- 👀 I’m interested in Data Analysis.
-- 🌱 I’m currently learning MySQL and Python.
+- 🌱 I’m currently learning Python.
 
 <!---
 PedroBigatti/PedroBigatti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
